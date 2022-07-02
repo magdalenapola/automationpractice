@@ -13,10 +13,7 @@ import java.time.Duration;
 import java.util.List;
 
 public class AutomationPractice {
-   // public static void main(String[] args) {// testow nie piszemy w mainie
-
-      //  WebDriver driver = new ChromeDriver(); //ten driver nie jest potrzebny
-  //  }
+   
     static WebDriver driver2;
 
     @BeforeAll
