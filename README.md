@@ -1,6 +1,6 @@
 # Automated Web Tests Project
 ## About The Project
-This repository was created as a final project for softwre testing with intro to automation course I have participated in. It contains few simple test automatizations for [Automation Practice](http://automationpractice.com/index.php) website.
+This repository was created as a final project for softwre testing with intro to automation course I have participated in. It contains few simple test automations for [Automation Practice](http://automationpractice.com/index.php) website.
 
 ### Built With
 * Java v.18.0.1.1
